@@ -1,0 +1,17 @@
+set ftp down
+set ftp6 down
+set ssl up
+passwd
+
+PASSWORD
+PASSWORD
+
+snmp 1 type read
+snmp 2 type read
+set telnet down
+set rsh down
+set rsh6 down
+set ssh down
+set sftp down
+logout
+yes

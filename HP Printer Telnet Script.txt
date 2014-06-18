@@ -1,0 +1,14 @@
+advanced
+passwd PASSWORD PASSWORD
+
+auth-trap 0
+
+trap-dest 0.0.0.0
+
+ftp-printing 0
+
+ssl-state 1
+snmp-config 1
+telnet-config 0
+save
+
